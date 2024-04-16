@@ -23,7 +23,7 @@ Here are some ideas to get you started:
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelPereira31&layout=compact&langs_count=7&theme=dark"/>
     </a>
 </div>
-
+<a href="https://wakatime.com/@0d59cc9b-ad6e-42b6-b11a-a0b51855b119"><img src="https://wakatime.com/badge/user/0d59cc9b-ad6e-42b6-b11a-a0b51855b119.svg"></a>
 <div style="display: inline_block"><br>
 
   <img align="center" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
